@@ -20,4 +20,8 @@ Preserve human authority, empirical evaluation, explicit approval and version hi
 
 ## Release status
 
-Review before public release. No licence has yet been selected by the owner; public availability is not equivalent to open-source licensing. No cross-provider performance validation has been completed.
+Public release candidate. The specification and documentation are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). Attribute the ExCor Universal project (Gladiorum) and link to this repository; identify modifications. Any future software may use a separately stated licence. No cross-provider performance validation has been completed.
+
+## Integrity
+
+MANIFEST.json records SHA-256 digests of the release files (excluding the manifest itself). Verify against the exact bytes before use; a checksum establishes integrity relative to the manifest, not authorship or empirical validity.

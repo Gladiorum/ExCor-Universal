@@ -10,3 +10,5 @@
 - Licence and public publication remain pending owner review.
 
 Source document SHA-256: 85717d22d973963910b02b2c701d17e71f78a4410c2af47537391d9e4c9b7d93
+
+2026-11-27 — Public repository completion: added optional modules, privacy-oriented ignore rules and CC BY 4.0 documentation licence; updated release integrity manifest. Cross-provider validation remains outstanding. The personal v3.11 source is not distributed.

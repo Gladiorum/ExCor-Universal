@@ -12,3 +12,5 @@
 Source document SHA-256: 85717d22d973963910b02b2c701d17e71f78a4410c2af47537391d9e4c9b7d93
 
 2026-11-27 — Public repository completion: added optional modules, privacy-oriented ignore rules and CC BY 4.0 documentation licence; updated release integrity manifest. Cross-provider validation remains outstanding. The personal v3.11 source is not distributed.
+
+2026-11-27 — Research update: published a depersonalised synthesis of the independent architecture audit and joint-discovery follow-up, linked it from the experimental register, and refreshed the integrity manifest for this development snapshot. The frozen v1.0-rc release candidate remains at commit d98f9991893b73a59f0d2d4750ce75812b44a706. Universal Core, bootstrap, authority and licensing are unchanged. No comparative trials or formal promotion of candidate methods are claimed.

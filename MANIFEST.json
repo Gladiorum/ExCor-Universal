@@ -1,0 +1,21 @@
+{
+  "version": "1.0-rc",
+  "source_version": "3.11",
+  "status": "public release candidate",
+  "algorithm": "SHA-256",
+  "scope": "Exact repository file bytes; MANIFEST.json excluded to avoid self-reference.",
+  "files": {
+    ".gitignore": "d0de0370f12db108f19bb502f7e60b3ac77b7c2f709469b89fe818f18b3185ec",
+    "CHANGELOG.md": "1125acd4b837cbcdc983aa3e2f52c0f4872a055b44d63a9c45c4fe471cf1bf13",
+    "EXCOR_BOOTSTRAP.md": "4216cd20a89b2de3112c0ddbbfcf114832d9a2b54cf07a394690fe771e94d9fd",
+    "EXCOR_EVALUATION_SUITE.md": "6efd39d9ad55a33b1ac93d1c0882b759718599c94bf6aac179bbebdfc07f3f8b",
+    "EXCOR_KNOWLEDGE_INDEX.md": "abc95841cf7d4c4c072e35010f7a1bbaa7bb096c0cd9061ecd36d53404b472f8",
+    "EXCOR_RESEARCH_REGISTER.md": "f76d40159a706d5f74b1e0ceeeeba4a566d6c287556ae2b73202a2efb3e00e65",
+    "EXCOR_UNIVERSAL_CORE.md": "1d54f7305f956ed1f1b28783ff0e94512a80152a32c20065681a26343b8754f6",
+    "EXCOR_USER_PROFILE_TEMPLATE.md": "8ed712681d6d4a69f21e58115980056af7fa01d18148996a47cc81a8ce7850d3",
+    "LICENSE": "d557539df68e771cc1eedcc91d13f70fca930e508d11eedcafa4b15db49e3744",
+    "README.md": "937f7a3a5b7c5343611ce2e475789f53e9749cdaa3242fb372713070cc39cdca",
+    "modules/APPLIED_CAPABILITY.md": "4741f9b9461229dd63e84b14fc579450d061690bc32986005a91dece256a5b83",
+    "modules/ECONOMIC_OPPORTUNITY.md": "3fe1700d960aef43f465f537454ac3a70ac8ae32e89f69c2572dac444ab28341"
+  }
+}
